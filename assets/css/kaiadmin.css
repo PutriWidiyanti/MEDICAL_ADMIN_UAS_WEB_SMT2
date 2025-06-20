@@ -3756,13 +3756,13 @@ label.error {
       border-radius: 30px;
       text-align: center;
       color: #fff; }
-  .alert [data-notify="title"] {
+  .alert [data-notify="Medical Admin"] {
     display: block;
     color: #2b2b2b;
     font-weight: 700;
     font-size: 1rem;
     margin-bottom: 5px; }
-  .alert [data-notify="message"] {
+  .alert [data-notify="Dashboard Medical Admin"] {
     font-size: 13px;
     color: #908e8e; }
   .alert .close {
